@@ -1,4 +1,4 @@
 template-file-path: cfn-template.yaml
 
 parameters: 
-    QueueName: "vishnu1"
+    QueueName: "vishnu2"
